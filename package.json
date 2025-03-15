@@ -1,10 +1,10 @@
 {
   "dependencies": {
     "clsx": "^2.1.1",
-    "material-symbols": "^0.28.2",
-    "next": "^15.2.0",
-    "nextra": "^4.2.13",
-    "nextra-theme-docs": "^4.2.13",
+    "material-symbols": "^0.29.1",
+    "next": "^15.2.2",
+    "nextra": "^4.2.16",
+    "nextra-theme-docs": "^4.2.16",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "sharp": "^0.33.5"
@@ -14,12 +14,12 @@
   "type": "module",
   "private": true,
   "devDependencies": {
-    "@types/bun": "latest",
+    "@types/bun": "^1.2.5",
     "@types/react": "^19.0.10",
-    "wrangler": "^3.111.0"
+    "wrangler": "^4.0.0"
   },
   "peerDependencies": {
-    "typescript": "^5"
+    "typescript": "^5.8.2"
   },
   "scripts": {
     "dev": "next",
