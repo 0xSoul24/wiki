@@ -1,12 +1,12 @@
 {
   "dependencies": {
     "clsx": "^2.1.1",
-    "material-symbols": "^0.28.2",
-    "next": "^15.2.2",
-    "nextra": "^4.2.16",
-    "nextra-theme-docs": "^4.2.16",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "material-symbols": "^0.29.2",
+    "next": "^15.2.4",
+    "nextra": "^4.2.17",
+    "nextra-theme-docs": "^4.2.17",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
     "sharp": "^0.33.5"
   },
   "name": "wiki",
@@ -14,12 +14,12 @@
   "type": "module",
   "private": true,
   "devDependencies": {
-    "@types/bun": "latest",
-    "@types/react": "^19.0.10",
-    "wrangler": "^3.114.1"
+    "@types/bun": "^1.2.8",
+    "@types/react": "^19.0.12",
+    "wrangler": "^4.6.0"
   },
   "peerDependencies": {
-    "typescript": "^5.7.3"
+    "typescript": "^5.8.2"
   },
   "scripts": {
     "dev": "next",
